@@ -1,0 +1,4 @@
+baseURL = "https://ann4belle.dev/"
+languageCode = "en-us"
+title = "ann4belle.dev"
+theme = "m10c"
