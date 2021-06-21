@@ -16,7 +16,7 @@ Gives one of our batters the Trader mod. We don't know what this does.
 Adds 99 soul to a random non-Shadow player on our team. Soul protects against Redaction at the cost of eDensity.
 
 ## Big Head Mode
-This gives a random non-Shadow player on our team the Magnify and Ego mods. Magnify multiples any runs batted in or allowed by the player by two. Ego increases eDensity.
+This gives a random non-Shadow player on our team the Magnify and Ego mods. Magnify multiples any runs batted in or allowed by the player by two, and also multiplies player eDensity by two. Ego increases eDensity.
 
 ## Shadow Brooms Supply Run
 All of our Shadows except Jon Halifax, Finn James, and Pedro Davids open a Generic Broom Crate. Brooms give +Divinity, which increases the chance of a home run on a batter.
