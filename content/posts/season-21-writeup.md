@@ -1,7 +1,7 @@
 ---
 title: "Season 21 Writeup"
 date: 2021-06-21T15:50:17-05:00
-draft: true
+draft: false
 ---
 Welcome to **Walnut's Seasonal Blessings Writeup** for Season 21!
 I'll attempt to be as objective as possible while describing what each blessing does for the Baltimore Crabs. This may contain FK since I get info from the offseasonSetup API endpoint, so be warned.
