@@ -1,9 +1,0 @@
----
-label: aaa
-hide_body: false
-fields:
-- name: b
-  type: text
-  config:
-    required: false
-  label: b
