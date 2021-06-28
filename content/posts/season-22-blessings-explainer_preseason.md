@@ -14,11 +14,11 @@ Until the main website starts displaying election information for Season 22, thi
 
 ## Gachapon
 
-Steals one Shadowed player from each other team.
+Steals one Shadowed player from each other team and puts them in our Shadows.
 
 ## Mass Attraction
 
-Steals all non-Shadowed players with the Attractor mod.
+Steals all non-Shadowed players with the Attractor mod and puts them in our Shadows.
 
 ## Under Taker
 
