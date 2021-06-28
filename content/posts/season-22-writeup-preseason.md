@@ -1,10 +1,10 @@
 ---
-title: "Season 22 Writeup -  Preseason Edition"
+title: "Season 22 Blessings Explainer -  Preseason Edition"
 date: 2021-06-28T01:47:43-05:00
 draft: false
 ---
 
-Welcome to **Walnut's Season 22 Election Writeup**, Pre-Season edition!
+Welcome to **Walnut's Season 22 Blessings Explainer**, Pre-Season edition!
 
 # NOTE:
 
