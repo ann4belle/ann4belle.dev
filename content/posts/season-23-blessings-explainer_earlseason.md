@@ -42,7 +42,7 @@ Gives the recipient a copy of Axel Trololol's Literal Arm Cannon, which maximize
 
 ## Season 3: Exploratory Surgeries
 
-Unless we gain another pitcher, this will re-roll all of our pitchers.
+Re-rolls the three worst pitchers in a strange way. Re-rolls the worst, then, if they are again the worst, re-rolls them again, and repeat until three re-rolls have been performed.
 
 ## Season 4: Precognition
 
@@ -74,7 +74,7 @@ Gives all teams in our Division the Walk in the Park seasonal mod, causing us to
 
 ## Season 11: XIII
 
-Likely switches the winning team's Tarot card to The Fool, which we already have.
+Likely switches the winning team's Tarot card to Death.
 
 ## Season 12: Uncle Indemnity
 
