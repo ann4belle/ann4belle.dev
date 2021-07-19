@@ -1,5 +1,5 @@
 ---
-title: "Season 22 Blessings Explainer: Earlseason Edition"
+title: "Season 23 Blessings Explainer: Earlseason Edition"
 date: 2021-07-19T17:25:35-05:00
 draft: false
 ---
